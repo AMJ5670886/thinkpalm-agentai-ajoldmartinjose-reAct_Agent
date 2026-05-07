@@ -29,10 +29,6 @@ This project demonstrates a ReAct agent designed to find information about films
     *   Run all cells in the Colab notebook.
 
 3.  **Run Locally (Advanced)**:
-    *   **Install Dependencies**:
-        ```bash
-        pip install -r requirements.txt
-        ```
     *   **API Keys**: Set your `GROQ_API_KEY` and `TMDB_API_KEY` as environment variables.
         ```bash
         export GROQ_API_KEY="your_groq_api_key"
