@@ -12,7 +12,6 @@ This project demonstrates a ReAct agent designed to find information about films
 - `/src`: Contains the main Python script for the film agent.
 - `/screenshots`: Stores any visual outputs or demonstration images.
 - `README.md`: This file, providing project information.
-- `requirements.txt`: Lists all Python dependencies.
 
 ## How to Run
 
