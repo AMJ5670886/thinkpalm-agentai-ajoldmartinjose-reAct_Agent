@@ -21,7 +21,7 @@ This project started as a **minimal ReAct film agent** for TMDB lookups via a te
 
 ---
 
-## v2 — Enhanced Features
+## Lab @ -  Enhanced Features
 
 ### Tab 1 · Movie Info (search & details)
 
