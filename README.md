@@ -152,10 +152,10 @@ Open notebook
 
 Add to `/screenshots`:
 
-- `v1_react_agent.png` — terminal ReAct output for a film query
-- `v2_movie_info.png` — search tab with result card
-- `v2_book_shows.png` — poster grid + selected booking panel
-- `v2_booking_confirmed.png` — booking confirmation card
+- `Screenshot 2026-05-07 163321.png` — terminal ReAct output for a film query
+- `Movie_Info_Screenshot.png` — search tab with result card
+- `Book_Show_UI_Screenshot.png` — poster grid + selected booking panel
+- `Book_Show_Confirmation_Screen_Screenshot.png` — booking confirmation card
 
 ---
 
