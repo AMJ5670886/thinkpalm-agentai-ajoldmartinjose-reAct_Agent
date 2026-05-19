@@ -59,12 +59,11 @@ This project started as a **minimal ReAct film agent** for TMDB lookups via a te
 
 ```
 .
-├── README.md                          ← this file
+├── README.md                                ← this file
 ├── src/
-│   └── minimal_react_agent.ipynb      ← v1 ReAct agent (CLI)
-├── enhanced/
-│   └── movie_finder_show_booking.py   ← v2 Colab UI (paste in one Colab cell)
-└── screenshots/                       ← v1 + v2 demo screenshots
+│   ├── minimal_react_agent.ipynb            ← v1 ReAct agent (CLI)
+│   └── enhanced_version_react_agent.ipynb   ← v2 Colab UI (Movie Info + Book Shows)
+└── screenshots/                             ← v1 + v2 demo screenshots
 ```
 
 ---
@@ -81,13 +80,13 @@ This project started as a **minimal ReAct film agent** for TMDB lookups via a te
 
 ### v2 — Movie Finder & Show Booking (Colab UI)
 
-1. Open a fresh Colab notebook.
-2. Install once:
+1. Open `src/enhanced_version_react_agent.ipynb` in Google Colab.
+2. Install dependencies (first cell, if not already present):
    ```bash
    !pip install openai ipywidgets requests --quiet
    ```
 3. Add the same **GROQ_API_KEY** and **TMDB_API_KEY** in **Secrets**.
-4. Paste the enhanced Python file into one cell and run.
+4. Run all cells.
 5. Use the **Movie Info** tab to search films and view details.
 6. Switch to **Book Shows** → pick city → click a poster → choose seats → **Confirm Booking**.
 
